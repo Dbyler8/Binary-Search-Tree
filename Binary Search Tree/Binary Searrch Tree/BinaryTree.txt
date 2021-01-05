@@ -1,0 +1,27 @@
+10 inserted in the tree as the root node
+10 deleted from the tree
+15 inserted in the tree as the root node
+5 inserted in the tree as a left child, parent node is: 15
+6 not found in the tree
+3 inserted in the tree as a left child, parent node is: 5
+7 inserted in the tree as a right child, parent node is: 5
+8 inserted in the tree as a right child, parent node is: 7
+9 inserted in the tree as a right child, parent node is: 8
+20 inserted in the tree as a right child, parent node is: 15
+15 deleted from the tree
+12 inserted in the tree as a left child, parent node is: 20
+14 inserted in the tree as a right child, parent node is: 12
+12 has already been inserted in the tree. Count incremented
+23 inserted in the tree as a right child, parent node is: 20
+9 deleted from the tree
+Displaying the tree
+Inorder Traversal:
+Value	Count
+3	1
+5	1
+7	1
+8	1
+12	2
+14	1
+20	1
+23	1
